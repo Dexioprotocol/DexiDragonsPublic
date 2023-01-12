@@ -1,4 +1,5 @@
 {
   "apkversion": "2.0.1",
-  "iosversion": "2.1.2"
+  "iosversion": "2.1.2",
+  "enableMultiplayer" : "false"
 }
